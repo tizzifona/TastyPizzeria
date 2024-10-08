@@ -1,4 +1,4 @@
-const requestURL = '/json/pizzas.json';
+const requestURL = 'json/pizzas.json';
 
 async function fetchPizzasJson() {
     const response = await fetch(requestURL);
