@@ -1,3 +1,3 @@
 # TastyPizzeria
 package.json
-instal: node.js / npm / зависимость npm json-serverjson-server --watch houses.json
+install: node.js / npm / зависимость npm json-serverjson-server --watch houses.json

@@ -7,7 +7,7 @@
         "json-server": "*"
     },
     "devDependencies": {
-        "Test": "*"
+        "test": "*"
     },
     "scripts": {
         "test": "Test"
